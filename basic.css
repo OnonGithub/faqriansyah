@@ -1,0 +1,18 @@
+.center {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background: #d4d4d4;
+  height: 12000px;
+}
+
+.nodec {
+  color: white;
+  text-decoration: none;
+}
